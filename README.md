@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning to code
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Marcus-arvidsson@hotmail.com
-- 😄 Pronouns: 
+- 😄 Pronouns: man
 - ⚡ Fun fact: I'm new
 
 <!---
